@@ -1,6 +1,6 @@
 Hey, I'm Tiborweh Lazarus 
 
-Cybersecurity Enthusiast | Web Developer | Data Analyst
+Cybersecurity Enthusiast | Web Developer | Data Analyst | Graphic Designer
 
 Currently exploring data visualization and cybersecurity protocols.
 Always open to projects in data analysis, web development, and security.
